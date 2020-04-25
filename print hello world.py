@@ -1,9 +1,13 @@
 print("hello world")
 print("mybutt")
 
-x = 10
+x = 25
 
 if x<20:
-    print("yes")
+    print("aaargh")
 else:
     print("no")
+
+def myfunc():
+    print(x)
+
