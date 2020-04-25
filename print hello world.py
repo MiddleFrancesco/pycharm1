@@ -6,7 +6,7 @@ x = 25
 if x<20:
     print("aaargh")
 else:
-    print("no")
+    print("whats going on???")
 
 def myfunc():
     print(x)
